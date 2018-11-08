@@ -1,0 +1,14 @@
+﻿- Forced the scrollbar to be shown for the list of blocked websites.
+- Added a application manifest that will ask for administrator access apon starting
+3/3/2011 [Version 1.1.1]
+- Stopped the tray icon from staying after the application is closed naturally
+- Added a default filename and extention filter to the file browsing dialogs
+3/3/2011 [Version 1.1]
+- Added a context menu to the tray icon with an exit menu option
+- Fixed a client crash when the data file hadn't been created yet
+- Added import/export settings menu options
+1/12/2011 [Version 1.0]
+- Made the access privledge errors only popup once
+- Changed the program icon to the system tray icon
+2010-11-16 [Version 1.0]
+- Initial version

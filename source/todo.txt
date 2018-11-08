@@ -1,0 +1,8 @@
+﻿3/3/2011
+- add file type filter and filename to the import/export open/save file dialogs
+- abstract the blocking method from the interface
+- handle URL parsing exceptions
+- automatically update settings file
+- automatically handle http/https and add www. for all URL's
+- add warning when exporting/importing when there are unsaved changes
+- add unsaved changes detection
